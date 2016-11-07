@@ -1,0 +1,6 @@
+*.swp
+compute-accuracy
+distance
+word-analogy
+word2vec
+word2phrase
