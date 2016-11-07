@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 make
 if [ ! -e news.2012.en.shuffled ]; then
   wget http://www.statmt.org/wmt14/training-monolingual-news-crawl/news.2012.en.shuffled.gz

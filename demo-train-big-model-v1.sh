@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 ###############################################################################################
 #
 # Script for training good word and phrase vector model using public corpora, version 1.0.
